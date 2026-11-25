@@ -1,0 +1,17 @@
+﻿.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.sql
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+.venv/
+venv/
+__pycache__/
+uploads/
